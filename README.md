@@ -1,5 +1,5 @@
 # Algorithms
-Algorithm's course tasks (Princeton)
+Algorithm's course tasks.
 
 
 
