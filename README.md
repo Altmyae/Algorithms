@@ -3,5 +3,6 @@ Algorithm's course tasks.
 
 
 https://www.coursera.org/learn/algorithms-part1
-![alt text](https://camo.githubusercontent.com/c9a9057d8f29d86c7fa5c51045994cffb5874baa485780e0483d1e19ad62f5a0/68747470733a2f2f616c6773342e63732e7072696e6365746f6e2e6564752f636f7665722e706e67)
+
+
 ![image](https://user-images.githubusercontent.com/78164285/228689450-8c480fda-1d1c-46ce-a6c7-1d13bb5df0e0.png)
